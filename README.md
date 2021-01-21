@@ -3,5 +3,6 @@ add some words
 
 TODO list
 - [x] show github example
-- [ ] show cobra
+- [x] show cobra
 
+it is me
