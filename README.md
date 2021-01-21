@@ -1,5 +1,5 @@
 # github-disco
-add some random words
+add some words
 TODO list
 - [ ] show github example
 - [ ] show cobra
