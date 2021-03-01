@@ -5,4 +5,4 @@ TODO list
 - [x] show github example
 - [x] show cobra
 
-it is me
+test it is me
